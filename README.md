@@ -21,13 +21,14 @@ During the data preparation phase, the following tasks were undertaken:
 ## Exploratory Data Analysis (EDA)
 EDA was conducted to explore the sales data and answer key questions such as:
 
-What is the overall trend in sales over the past five months?
-Which destinations are customers sending the majority of shipments to?
-What are the peak sales periods within the observed timeframe?
-Data Analysis:
+1. What is the overall trend in sales over the past five months?
+2. Which destinations are customers sending the majority of shipments to?
+3. What are the peak sales periods within the observed timeframe?
+
+## Data Analysis:
 In-depth analysis of the data revealed the following key findings:
 
-Results/Findings:
+## Results/Findings:
 
 The branch's sales and number of shipments showed a steady decline from January to April, primarily attributed to a recent price increase. However, there was a gradual recovery observed in May.
 
@@ -35,10 +36,10 @@ The individual customer category consistently outperformed other customer catego
 
 These findings underscore the impact of pricing strategies on sales performance and highlight the importance of customer segmentation in optimizing operational outcomes.
 
-Conclusion:
+## Conclusion:
 In conclusion, the analysis provides actionable insights into the sales dynamics of the branch office, emphasizing the need for strategic pricing adjustments and targeted customer engagement strategies to enhance overall performance. By leveraging these insights, GIG Logistics Technologies Limited can make informed decisions to drive growth and improve operational efficiency in the South East Nigeria region.
 
-Recommendations:
+## Recommendations:
 Based on the findings, it is recommended that:
 
 Further analysis be conducted to understand the specific drivers behind the recovery in May and to capitalize on this momentum.
