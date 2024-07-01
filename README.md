@@ -1,5 +1,5 @@
 # GIG Logistics Sales Analysis Report
-
+![](GIG-Logistics.jpg)
 
 ## Project Overview:
 The objective of this data analysis project is to provide insights into the sales performance of a branch office of GIG Logistics Technologies Limited located in South East Nigeria over the past five months. By analyzing various aspects of the sales data, the aim is to identify trends, make data-driven recommendations, and gain a deeper understanding of the branch's performance.
