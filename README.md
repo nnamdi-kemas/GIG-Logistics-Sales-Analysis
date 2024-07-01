@@ -8,8 +8,8 @@ The primary dataset used for this analysis is sourced from the sale_data.csv fil
 
 ## Tools Used
 
-- Excel for data cleaning and initial analysis.
-- Power BI for creating comprehensive reports and visualizations.
+- Microsoft Excel for data cleaning and formatting.
+- Pivot Table for analysis.
 
 ## Data Cleaning/Preparation
 During the data preparation phase, the following tasks were undertaken:
