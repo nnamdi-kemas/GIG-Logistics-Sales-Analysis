@@ -1,5 +1,5 @@
 # GIG Logistics Sales Analysis Report
-![](giglogistics.PNG)
+![GIG-Logistics](https://github.com/nnamdi-kemas/GIG-Logistics-Sales-Analysis/blob/main/GIG-Logistics.jpg)
 
 
 ## Project Overview:
