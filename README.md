@@ -1,5 +1,5 @@
 # GIG Logistics Sales Analysis Report
-
+![](giglogistics.PNG)
 
 
 ## Project Overview:
