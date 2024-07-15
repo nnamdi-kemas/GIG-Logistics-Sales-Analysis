@@ -44,14 +44,14 @@ The individual customer category consistently outperformed other customer catego
 These findings underscore the impact of pricing strategies on sales performance and highlight the importance of customer segmentation in optimizing operational outcomes.
 
 ## Conclusion:
-In conclusion, the analysis provides actionable insights into the sales dynamics of the branch office, emphasizing the need for strategic pricing adjustments and targeted customer engagement strategies to enhance overall performance. By leveraging these insights, GIG Logistics Technologies Limited can make informed decisions to drive growth and improve operational efficiency in the South East Nigeria region.
+In conclusion, the analysis provides actionable insights into the sales dynamics of the branch office, emphasizing the need for strategic pricing adjustments and targeted customer engagement strategies to enhance overall performance. By leveraging these insights, GIG Logistics Technologies Limited can make informed decisions to drive growth and improve operational efficiency.
 
 ## Recommendations:
 Based on the findings, it is recommended that:
 
 Further analysis be conducted to understand the specific drivers behind the recovery in May and to capitalize on this momentum.
 Continuous monitoring of customer preferences and market trends be implemented to adjust pricing strategies accordingly.
-Enhanced marketing efforts be directed towards the individual customer segment to maintain and expand market share.
+Enhanced marketing efforts be directed towards the E-commerce and corporate customer segment to maintain and expand market share.
 This approach will enable the branch to achieve sustainable growth and strengthen its competitive position in the logistics sector.
 
 
