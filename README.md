@@ -34,7 +34,12 @@ In-depth analysis of the data revealed the following key findings:
 
 The branch's sales and number of shipments showed a steady decline from January to April, primarily attributed to a recent price increase. However, there was a gradual recovery observed in May.
 
+![sales](https://github.com/user-attachments/assets/154e8505-51a2-40c9-aec8-e18d4ef8ed55)  | ![shipmentscreated](https://github.com/user-attachments/assets/381376b8-5f05-4f32-832b-3444cecf0cd7)
+
+
 The individual customer category consistently outperformed other customer categories in terms of both sales revenue and number of shipments created.
+
+![customercategory](https://github.com/user-attachments/assets/eaf3956f-de93-49db-a2c2-0cbd151eda25)
 
 These findings underscore the impact of pricing strategies on sales performance and highlight the importance of customer segmentation in optimizing operational outcomes.
 
